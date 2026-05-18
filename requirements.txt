@@ -8,3 +8,4 @@ streamlit
 plotly
 streamlit_option_menu
 google-generativeai
+bcrypt
